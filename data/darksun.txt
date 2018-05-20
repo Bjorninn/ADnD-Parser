@@ -1,0 +1,219 @@
+First-Level Spells
+Create Water (Alteration)
+(Reversible)
+Sphere: Elemental (Water)
+Range: 30 yds.
+Components: V, S, M
+Duration: Permanent
+Casting Time: 1 rd.
+Area of Effect: Up to 27 cu. ft.
+Saving Throw: None
+When the priest casts a create water spell, up to 1/2 gallon of water are generated for
+every experience level of the caster (for example, a 2nd-level priest creates up to 1
+gallon of water, a 3rd-level priest up to 1 1/2 gallons, etc.). The water is clean and
+drinkable (it is just like rain water). The created water can be dispelled within a round of
+its creation; otherwise, its magic fades, leaving normal water that can be used, spilled,
+evaporated, etc. The reverse of the spell, destroy water, obliterates without trace (no
+vapor, mist, fog, or steam) a like quantity of water. Water can be created or destroyed in
+an area as small as will actually contain the liquid, or in an area as large as 27 cubic feet
+(1 cubic yard).
+Note that water can neither be created nor destroyed within a creature. For reference
+purposes, water weighs about 8 ½ pounds per gallon, and a cubic foot of water weighs
+approximately 64 pounds.
+The create water spell requires at least a drop of water; the destroy water spell, at least
+a pinch of dust.
+Merciful Shadows (Abjuration)
+(Reversible)
+Sphere: Cosmos
+Range: Touch
+Components: V, S, M
+Duration: 1 day/5 levels
+Casting Time: 1 round
+Area of Effect: Person touched
+Saving Throw: Neg.
+This spell creates a magical shade to protect an
+individual from the scorching sun. Once cast, the
+individual gains the benefits of being in the shade
+(half water consumption requirements), even when
+travelling or fighting in the full light of the sun. The
+individual so protected appears normal, except that
+he doesn't sweat as much as expected and his coloration
+is a bit gray.
+The reverse of this spell, blistering rays, intensifies
+the light and heat of the sun on the victim. The individual
+must have twice the water per day for the duration
+of the spell or suffer the effects of
+dehydration. Also, in each round of combat in the
+open sun, the individual must make a Constitution
+check to keep from passing out. The saving throw,
+applicable only to the reverse of the spell, negates its
+effects. This spell (and its reverse) has no effect on
+an individual who is in the shade.
+The material components of this spell are a piece
+of a palm leaf (or black fabric for the reverse).
+Third-Level Spells
+Create Food & Water (Alteration)
+Sphere: Elemental (Water)
+Range: 10 yds.
+Components: V, S
+Duration: Special
+Casting Time: 1 turn
+Area of Effect: 1 cu. ft./level
+Saving Throw: None
+When this spell is cast, the priest causes food and water to appear. The food thus
+created is highly nourishing if rather bland; each cubic foot of the material sustains three
+human-sized creatures or one horse-sized creature for a full day. The food decays and
+becomes inedible within 24 hours, although it can be restored for another 24 hours by
+casting a purify food and water spell upon it. The water created by this spell is the same
+as that created by the 1st-level priest spell create water and follows the same restrictions.
+For each experience level the priest has attained, 1 cubic foot of food or water is created by
+the spell but a maximum of 1/2 gallon of water per caster level (1/2 gallon is 0.07 cu. ft.).
+For example, a 2nd-level priest could create 1 gallon of water and 1.86 cubic feet of food.
+Air Lens (Alteration)
+Sphere: Air
+Range: 90 yards
+Components: V, S, M
+Duration: 3 rounds + 1 round/level
+Casting Time: 3
+Area of Effect: Special
+Saving Throw: None
+By means of this spell, the priest creates a magical
+lens high in the air, with which he can direct intensified
+rays of the sun against his enemies (the caster
+must be in the sunlight for the duration of the spell).
+Once cast, the priest can attack with the lens twice
+per round, against one or two different targets within
+the range of the spell. Attack rolls must be made
+for each attack, but the priest suffers no nonproficiency
+penalty. Targets under cover receive benefits
+for both cover and concealment. Each hit inflicts
+2d6 points of damage. Creatures resistant to heat or
+fire take only half damage.
+The spell can also be used to ignite flammable
+materials. When doing so against non-mobile targets,
+no attack roll is necessary and any normally
+combustible material (cloth, wood, paper, etc.) will
+ignite. Personal equipment may also be targeted,
+but the priest must make a successful attack roll
+with a -4 penalty. If hit, the article of equipment
+ignites. Burning clothing will inflict ld6 points of
+damage for ld6 rounds or until discarded. Burning
+shields become useless. The flames so created are
+not magical in nature and can be extinguished normally.
+Magical darkness can negate the effects of
+this spell. Magical shade reduces damage by half.
+The material component for this spell is a small,
+round piece of glass.
+Fourth-Level Spells
+Rejuvenate (Alteration)
+Sphere: Elemental, Plant
+Range: Touch
+Components: V, S, M
+Duration: Special
+Casting Time: 1 round
+Area of Effect: 10' radius/level
+Saving Throw: None
+This spell grants the ability to support vegetation
+to an area of ground. In the case of ground made
+barren by defiler magic, rejuvenate dispels the
+ground's sterility, making it immediately capable of
+supporting vegetation. The spell may be cast on any
+ground short of solid rock, including sand, rocky
+sand or soil, or dust.
+In either case, the spell affects the ground in a
+circle extending away from the caster, so he must
+stand in the middle of the area he wishes to revitalize.
+The radius of the circle is 5 feet per level of the
+caster. Once cast, the soil is enriched and moistened,
+and a layer of fine grass emerges instantly.
+The duration of the spell varies. Once cast, the
+moist soil and grass are not magical, and are subject
+to all natural forces upon them. They will, however,
+survive a week in even the worst of conditions. Rejuvenate
+will otherwise last until another defiler spell
+destroys the vegetation there.
+The material component of the spell is a seed (of
+any type) and a drop of water.
+Fifth-Level Spells
+Conjure Elemental (Conjuration/Summoning)
+Reversible
+Sphere: Elemental (Various)
+Range: 80 yards
+Components: V, S
+Duration: 1 turn/level
+Casting Time: 5 rounds
+Area of Effect: Special
+Saving Throw: None
+In Dark Sun campaigns, there is no 6th-level conjure
+fire elemental spell or 7th-level conjure earth elemental
+spell for priests. Instead, this spell allows
+the caster to open a special gate to any elemental
+plane to which he has major access and summon an
+elemental to step through. The Hit Dice of the elemental
+are determined randomly.
+Roll Hit Dice
+01-65 8
+66-90 12
+91-00 16
+The elemental will not turn on the caster, so concentration
+need not be maintained. The elemental
+summoned remains for a maximum of one turn per
+level of the caster, or until it is slain or magically
+banished.
+Sandstorm (Conjuration/Summoning)
+Sphere: Air
+Range: 60 yards
+Components: V, S, M
+Duration: 3 rounds/level
+Casting Time: 4 rounds
+Area of Effect: Special
+Saving Throw: 1/2
+This spell allows a priest to conjure a very large
+version of a dust devil; one that can engage and attack
+a number of targets at once. The storm has
+AC 0, MV 12, and hit dice equal to the level of the
+caster. The sandstorm is a large whirlwind of dust
+and sand twelve feet tall that covers a 10-yard by
+10-yard square per level of the caster. The storm's
+shape can be determined by the caster and changed
+on any round after casting, provided no portion of
+the storm moves further than its movement rate.
+Any creature within the storm is subject to an attack
+which will do 2d6 points of damage (save versus
+spells for half damage). The storm is only subject to
+attacks from magical weapons. The winds of the
+storm will put out all normal fires within it. Also,
+any items within the storm must make item saving
+throws each round or be destroyed—all sandstorm
+saves are as if vs. acid with a + 5 bonus. The storm
+can hold a gas cloud or a creature in gaseous form
+at bay or push it away from the caster. The cloud
+obscures vision through it, and creatures are blinded
+for ld4 rounds after emerging from it (save versus
+spell to avoid blindness). A spellcaster caught
+within the sandstorm loses concentration and any
+spells he is about to cast are ruined.
+The material component for this spell is a small
+bottle of air collected on a windy day.
+Sixth-Level Spells
+Create Tree of Life (Alteration, Enchantment)
+Sphere: Cosmos
+Range: 0
+Components: V, S, M
+Duration: Permanent
+Casting Time: 1 turn
+Area of Effect: One tree
+Saving Throw: None
+By means of this spell, a wizard can enchant a
+living sapling to become a magical tree of life. The
+sapling must have already sprouted from the
+ground, though the wizard can transplant such a
+sapling before casting the spell. It will grow to its full
+size in only one week, but has its full powers and
+capabilities immediately after the spell is cast. Any
+tree less than one year old will suffice; this spell cannot
+be cast on an older tree. The properties of a tree
+of life are described in Chapter 7: Magic.
+The material components for this spell are the
+sapling (which grows into the tree of life) and a piece
+of copper wire formed in the shape of a tree.
